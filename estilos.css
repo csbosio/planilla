@@ -1,0 +1,16 @@
+* { padding: 0; margin: 0;}
+table{text-align: center; margin-left: auto; margin-right: auto; }
+ table tr td {border: 1px solid rgb(226, 8, 8);
+background-color: coral ;width: 100px; }
+table tr th {border: 3px solid rgb(82, 1, 1);
+    background-color: green ; padding: 20px; width: 100px; }
+caption { color: white ; background-color: black;}
+table tr td a {text-decoration: none; color: black; display: inline-block  
+    ; border-radius: 5px; background-color: white; border :1px }
+table tr td a:hover { border-radius: 25px; background-color: white;
+    color: black;}
+h1 {font-weight: bold; text-align: center; background-color: green; }
+p {text-align: center;}
+a{border-radius: 25px; margin-left: 1200px; border: 1px solid black; 
+    text-decoration: none; background-color: green; }
+a:hover {font-weight: bold; background-color: black; color: white; }
